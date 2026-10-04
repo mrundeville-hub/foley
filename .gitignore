@@ -1,0 +1,16 @@
+__pycache__/
+*.egg-info/
+.backups/
+.venv/
+qa/
+graphify-out/
+.DS_Store
+.env
+.env.*
+!.env.example
+*.pyc
+*.mp4
+*.mov
+*.wav
+references/*_analysis.npz
+references/*_spectrum.png
